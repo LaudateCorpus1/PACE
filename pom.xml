@@ -48,7 +48,7 @@
     <accumulo.version>1.8.0</accumulo.version>
     <assembly.tarLongFileMode>posix</assembly.tarLongFileMode>
     <!-- bouncycastle version for core dependencies -->
-    <bouncycastle.version>1.54</bouncycastle.version>
+    <bouncycastle.version>1.67</bouncycastle.version>
     <!-- relative path for Eclipse format; should override in child modules if necessary -->
     <eclipseFormatterStyle>${project.parent.basedir}/contrib/Eclipse-Accumulo-Codestyle.xml</eclipseFormatterStyle>
     <!-- extra release args for testing -->
